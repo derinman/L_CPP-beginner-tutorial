@@ -128,7 +128,7 @@ void F_First_Program()
 		}
 		break;
 		} // switch
-	}	  // for loop
+	} // for loop
 }
 
 void F_Second_Program()
@@ -385,7 +385,7 @@ void F_Second_Program()
 		}
 		break;
 		} // switch
-	}	  // for loop
+	} // for loop
 }
 
 int main()
@@ -421,7 +421,7 @@ int main()
 			break;
 
 		} // switch
-	}	  // for loop
+	} // for loop
 
 	system("pause");
 	return 0;
